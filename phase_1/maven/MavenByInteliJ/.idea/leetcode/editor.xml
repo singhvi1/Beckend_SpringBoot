@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[148]Sort List.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/doc/content/[148]Sort List.md" />
+              <option name="frontendQuestionId" value="leetcode.com148" />
+              <option name="host" value="leetcode.com" />
+              <option name="langSlug" value="java" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[148]Sort List.java" />
+              <option name="titleSlug" value="sort-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[2046]Sort Linked List Already Sorted Using Absolute Values.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/doc/content/[2046]Sort Linked List Already Sorted Using Absolute Values.md" />
+              <option name="frontendQuestionId" value="leetcode.com2046" />
+              <option name="host" value="leetcode.com" />
+              <option name="langSlug" value="java" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[2046]Sort Linked List Already Sorted Using Absolute Values.java" />
+              <option name="titleSlug" value="sort-linked-list-already-sorted-using-absolute-values" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
